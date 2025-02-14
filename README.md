@@ -18,27 +18,30 @@
 
 ## 🧑‍💻 Minhas Skills!!!
 <div >
-<!--   JavaScript -->
+ <!--   JavaScript -->
   <img align="center" alt="Ygo-Js" height="40" width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<!--   TypeScript -->
+ <!--   TypeScript -->
   <img align="center" alt="Ygo-Ts" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<!--  NodeJs -->
+ <!--  NodeJs -->
  <img align="center" alt="Ygo-Node" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+ <!--  Nest -->
+ <img align="center" alt="Ygo-Nest" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+ <!--   GO -->
+  <img align="center" alt="Ygo-Go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+
 <!--   React -->
   <img align="center" alt="Ygo-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<!--   Html -->
-  <img align="center" alt="Ygo-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg">
-<!--  CSS -->
-  <img align="center" alt="Ygo-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg"> 
+<!--   Angular -->
+  <img align="center" alt="Ygo-Go" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+<!--  Vue -->
+  <img align="center" alt="Ygo-Vue" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"> 
 <!--   Docker -->
-  <img align="center" alt="Ygo-Docke" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
-<!--   Java -->
-  <img align="center" alt="Ygo-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Ygo-Docker" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 
 </div><br>
    
   <a href="https://github.com/ygohamon">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygohamon&layout=compact&langs_count=7&theme=blue-green"/><br>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ygohamon&layout=compact&langs_count=9&theme=blue-green"/><br>
   </a>
    
 ## 📲 Contatos:
