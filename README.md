@@ -2,9 +2,9 @@
 
 ## 😁 Vamos falar pouco sobre min!
 
-- 🖥 Trabalhando atualmente com NodeJs, React e Angular
-- 👨🏾‍🏫 Aprimorando conhecimento em React, Next, RectNative
-- 👨🏾‍💻 Trabalhando atualmente na IBM
+- 🖥 Trabalhando atualmente com NodeJs, NestJs, Go, React/Next, Vue e Angular
+- 👨🏾‍🏫 Aprimorando conhecimento em GO
+- 👨🏾‍💻 Trabalhando atualmente na Ministerio Publico de São Paulo
 - 📫 Qualquer coisa envie uma email para: ygohamonsh@gmail.com
  
  
@@ -34,8 +34,7 @@
   <img align="center" alt="Ygo-Docke" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
 <!--   Java -->
   <img align="center" alt="Ygo-Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-<!--   Spring -->
-  <img align="center" alt="Ygo-Spring" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+
 </div><br>
    
   <a href="https://github.com/ygohamon">
