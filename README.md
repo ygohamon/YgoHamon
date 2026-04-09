@@ -60,5 +60,9 @@ Engenheiro de software com foco em desenvolvimento backend e full stack. Atuo no
 </p>
 
 <p align="center">
-  <img src="https://github.com/ygohamon/YgoHamon/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ygohamon&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ygohamon&theme=github-compact&hide_border=true&area=true"/>
 </p>
