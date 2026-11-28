@@ -10,8 +10,4 @@ I build backend services and full-stack applications. My work includes migrating
 - **Frontend:** aplicações com Angular.
 - **Dados e infraestrutura:** SQL, MongoDB, Redis, Docker e CI/CD.
 
-## Projeto público
-
-- [Market Lista](https://github.com/ygohamon/Market-Lista) · App de lista de compras feito com React Native e Expo, com demonstrações de criação, edição e marcação de itens.
-
 [LinkedIn](https://www.linkedin.com/in/ygohamon/)
